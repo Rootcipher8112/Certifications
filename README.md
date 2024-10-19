@@ -15,4 +15,5 @@
 ## SOC Lvl 1 (Tryhackme.com)
 ![IMG_1272](https://github.com/Rootcipher8112/Certifications/assets/123340212/711107ac-9703-4d23-8089-640b748372a3)
 
-
+## Microsoft AZ-900 Fundamentals
+![image](https://github.com/user-attachments/assets/3ddb402b-d056-4021-a8b7-0fa29243aaba)
